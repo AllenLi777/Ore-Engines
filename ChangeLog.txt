@@ -2,3 +2,9 @@ Change log of mod Ore Engines.
 
 V0.0
 Initial release.
+
+V0.1
+Added gimbal to "squid" and "octopus".
+Added CTT config nodes.
+Added MM config nodes to change "TechRequired" of stock ore tanks.
+Added MM as dependency.
